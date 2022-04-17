@@ -16,7 +16,7 @@ em um controle de acesso a funcionalidades de um sistema.
 
 
 **DER** - Diagrama-Entidade-Relacionamento
-![enter image description here](https://raw.githubusercontent.com/LeonardoCorreia08/db-control-A-DIO-cog-eng/DIO.JPG)
+![enter image description here](https://github.com/LeonardoCorreia08/db-control-A-DIO-cog-eng/blob/main/DIO.JPG)
 
 
 ## Documentação ##
