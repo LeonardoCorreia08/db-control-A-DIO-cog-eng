@@ -1,6 +1,14 @@
 # CONTROLE DE ACESSO (Database) #
 ## Estrutura de tabelas para controle de acesso ##
 
+**DER** - Diagrama Entidade-Relacionamento
+![Diagrama Entidade Relacionamento do Banco de Dados](./DIO.JPG)
+
+## Como utilizar
+1. Faça o clone deste repositório.
+2. Abra o seu gerenciador de banco de dados (ex: MySQL Workbench).
+3. Execute o script `estrutura_banco.sql` para gerar as tabelas e os relacionamentos.
+
 Nesse script de banco de dados, são apresentadas tabelas e  seus relacionamentos para serem utilizadas 
 em um controle de acesso a funcionalidades de um sistema.
 
